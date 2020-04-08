@@ -1,9 +1,13 @@
 # Starfish Browser extension
 
 
-This is the browser extension for Starfish, supporting Chrome and Firefox. It adds a **Open in IDE** button to the configured GitHub and GitLab installations (defaults to domains containing `github.com` or `gitlab.com`) which directly creates a workspace for that context:
+This is the browser extension for Starfish, supporting Chrome and Firefox. It adds a **Open in IDE** button to the configured GitHub and GitLab installations (defaults to domains containing `github.com` or `gitlab.com`) which opens up the srafish Application.
 
+Note: It will not open up starfish as currently the application does not exists.You'll get the `open xdg-open` option.
 
+## Supported Browsers
+* Google Chrome 
+* Mozilla Firefox.
 ## Build
 
 ```
